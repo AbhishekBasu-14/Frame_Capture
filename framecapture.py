@@ -2,7 +2,7 @@ import cv2
 import os 
   
 # Read the video from specified path 
-cap = cv2.VideoCapture("ArUco_bot.mp4") 
+cap = cv2.VideoCapture("<video file>") 
   
 try: 
       
